@@ -49,3 +49,91 @@ Released under the MIT license: http://jsbin.mit-license.org
 <td><center>
 
 <p style="color: white"> MR. Samuel George known as (Daddy Kham) has compiled a PDF guide that will help you to do the following, check the below list. This is a guide to beginners who no nothing about coding, the step by step guide will manually teach you how to code lin
+</p></center> 
+
+</td>
+
+</ul>
+
+</table>
+
+<h2 style ="background-color: white; color: fuchsia"> List Of Courses </h2>
+
+<table border="15">
+
+<ul>
+
+<td>
+
+  <i>
+
+<p style ="color: white">1 Create A Blog</p>
+
+<p style ="color: white">2 Setting Up A Blog</p>
+
+<p style ="color: white">3 Integrating TLD</p>
+
+<p style ="color: white">4 Publish Your First Post</p>
+
+<p style ="color: white">5 Activate Ads</p>
+
+<p style ="color: white">6 Add Site Map</p>
+
+<p style ="color: white">7 Create A Unique Blog Logo</p>
+
+<p style ="color: white">8 Coding </p>
+
+<p style ="color: white">10 Conclusion</p>
+
+  </i>
+
+</td>
+
+</ul>
+
+</table>
+
+<h4 style="color: white"> All the items mentioned in the above list is what you'll learn,
+
+</h4>
+
+ </table>
+
+ <br> <p style=" color: black; background-color: lightgray; "> The PDF (E-book) Consists of all the above items, and step by step guide to help you understand how each section works. The vedios also will help you to understand how to code with Html and CSS. This is a pure guide for beginners. see you there. </p>
+
+  <h1 style=" color: yellow">This PDF is not for free, click on <mark>download PDF </mark> to buy Now for just $14.99 <button <a
+
+    href="http://myearlyview.blogspot.com">Download PDF</button></h1>
+
+<br>
+<input type="text" id="fname" name="firstname" placeholder="Your name.."><br>
+        <label for="lname">Last Name</label><br>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name.."><br>
+        <label for="country">Country</label><br>
+        <select id="country" name="country"><br><br>
+          <option value="Nigeria">Nigeria</option><br>
+          <option value="canada">Canada</option><br>
+          <option value="usa">USA</option>
+          <option value="South Africa">South Africa</option>
+          <option value="London">London</option>
+          <option value="India">India</option>
+          <option value="United States">United States</option>
+          <option value="Madagascar">Madagascar</option>
+<option value="Indonesia">Indonesia</option>
+          <option value="China">China</option>
+          <option value="California"> California</option>
+          <option value="England"> England</option>
+          <option value="Scotland">Scotland</option>
+        </select>
+        <label for="subject">Subject</label><br>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea><br>
+        <input type="submit" value="Submit" <a href="http://myearlyview.blogspot.com"></a>
+      </form>
+    </div>
+  </div>
+</div>
+<footer style=" background-color: gray; color: white"><br>
+<i> Codetraining1 @ 2019 All right reserved!</i>
+</footer>
+</body>
+  </html>
